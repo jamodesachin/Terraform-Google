@@ -1,2 +1,1 @@
-# Docker
-# Terraform-Google
+# Hands on practice
