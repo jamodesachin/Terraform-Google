@@ -1,1 +1,1 @@
-# Hands on practice
+# Hands-on practice
